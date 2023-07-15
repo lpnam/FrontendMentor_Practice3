@@ -147,3 +147,9 @@ a:focus {
     color: var(--COLOR-WHITE);
 }
 
+@media (max-width: 1309px) {
+    .container_pri {
+        width: 80vw;
+    }
+}
+
